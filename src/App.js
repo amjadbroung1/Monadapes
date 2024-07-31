@@ -10,8 +10,8 @@ function App() {
           First Ape collection on Monad blockchain.{' '}
         <div>
 
-        <a href='https://twitter.com/monadapes' target='_blank'>
-            <img src={x} className='logo'/>
+        <a href='https://twitter.com/monadapes' target='_blank' rel="noreferrer">
+            <img src={x} className='logo' alt='x'/>
           </a>
         </div>
           
